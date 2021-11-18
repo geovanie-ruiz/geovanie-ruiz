@@ -1,4 +1,4 @@
-[![Geovanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanie-ruiz&show_icons=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/geovanie-ruiz/github-readme-stats)
+[![Geovanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanie-ruiz&show_icons=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Hey! My name is GEOVANIE (geo). I write code and now I'm putting it on GitHub for public scrutiny to fight the onset of Dunning-Kruger.
 
@@ -6,7 +6,7 @@ I've wanted to be a software developer for most of my life. It started off as a 
 
 A whole journey later, I'm a professional, self-taught developer with a present focus on Python/Django.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanie-ruiz&theme=dark&layout=compact)](https://github.com/geovanie-ruiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanie-ruiz&theme=dark&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm currently working on expanding my repertoire and will be using GitHub as a means to contribute to various open source projects, as well as sharing my progress on my personal projects. In addition to this, I am engaging in the Trailblazer community to extend my skillset into the Saleforce ecosystem.
 
